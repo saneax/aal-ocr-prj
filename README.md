@@ -1,4 +1,6 @@
-# codex-ocr-prj
+# aal-ocr-prj
+
+> ✅ SSH key authentication verified — Sanbot 🦉 connected via OpenClaw.
 
 OCR pipeline for mathematics question papers:
 
