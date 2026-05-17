@@ -1,0 +1,19 @@
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+.commandcode/
+
+# Generated OCR outputs
+output/
+output-final/
+output-gpu-test/
+input/
+input-pdf/
+images/
+ndir/
+
+# Accidental shell-redirection leak files (e.g. from unquoted `>=`)
+=*
